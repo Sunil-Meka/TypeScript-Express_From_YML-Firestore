@@ -1,6 +1,7 @@
 This is a MicroService Project using openapi-generator-plus package to convert a yml file to typescript express code.
 
 Procedure:
+
 1- The OAS(OPEN API SPECIFICATION) are written in the yml file, here it is openapi.yml(the specs in yml are openapi 3.0.2 version)
 
 2- Create a yarn project using command 'yarn init' inside the empty folder(this is project folder), this will create a package.json file in the specified project folder.
