@@ -29,6 +29,8 @@ Procedure:
 8- once the implementation code is completed, the project is ready to test and deploy
 
 9- Test the endpoints(routes) locally, these routes are found in dist/api/{service}/index.ts
+	- Swagger UI can be used for testing the API
+	- To generate swagger UI, hit the {API}/api-docs in browser, here it is "http://localhost:8000/api-docs"
 
 10- Now deploy the microservice in cloud(like GCP,AZURE,AWS,etc)
 
